@@ -1,0 +1,21 @@
+Se necesitan:
+
+2 Varillas lisas 8 mm de 60 cm
+1 Varilla roscada inox M8 de 60 cm 
+4 cojinetes lineales LM8uu
+1 Rodamiento 608
+14 Tornillos 3.5 x 16 para plástico
+1 Tuerca de bronce M8
+4 Tornillos M4x16 para fijación del monitor
+4 Tornilllos 6.5x50 cabeza cónica y 4 tacos, para fijar a pared
+Broca de 10 mm para pared
+
+Piezas Impresas
+
+Electrónica
+
+Electrónica BQ Zum
+Chip L293 
+Plaquita de contantos
+Clema de dos contactos
+Motor de corriente continua a 12 V
