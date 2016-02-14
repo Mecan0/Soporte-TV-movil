@@ -1,0 +1,12 @@
+La programación de la electrónica se hizo mediante Bitbloq 1.
+Se puede ver el programa en la imagen adjunta.
+Recomiendo la lectura de este tutorial para el control del Bluetooth
+http://diwo.bq.com/ejemplo-en-bitbloq-de-comunicacion-bluetooth/ 
+(Gracias a Anita de Prado)
+
+Se usa el chip L293D para hacer el cambio de sentido de giro del motor de contínua,
+este chip es muy común y se puede conseguir fácilmente en tiendas de electrónica.
+
+Para siguientes implementaciones sería interesante introducir finales de carrera.
+
+
